@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# STM32 / Keil build files
+Objects/
+Listings/
+*.o
+*.obj
+*.axf
+*.hex~
+*.map
+*.lnp
+*.htm
+*.html
+*.crf
+*.d
+
+# STM32CubeIDE / MX
+Debug/
+Release/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
